@@ -1,3 +1,7 @@
 # color-generator
 <h3><a>click here</a></h3>
-<video src="C:\Users\SCP\OneDrive\Desktop\hetvi\color generator\Screen Recording 2025-03-26 082539.mp4">
+<video width="600" controls>
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
