@@ -1,5 +1,5 @@
 # color-generator
 <h3><a>click here</a></h3>
 
-<video src='C:\Users\SCP\Downloads\screen-recording-2025-03-26-082539_JSwdQ7BN.mp4'>
+https://github.com/user-attachments/assets/6cf63081-776d-491c-acce-b351d6a91b0c
 
